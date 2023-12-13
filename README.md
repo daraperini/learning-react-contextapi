@@ -5,6 +5,7 @@ This project was developed during Alura's class *React: global states manegement
 ## Used tools:
 
 * React (ContextAPI)
+* JavaScript
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -32,6 +33,7 @@ Nesse projeto desenvolvido a partir do curso *React: gerenciamento de estados gl
 ## Ferramentas utilizadas:
 
 * React (ContextAPI)
+* JavaScript
 
 ## Iniciando o projeto na sua máquina
 
