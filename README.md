@@ -21,7 +21,7 @@ This project was developed during Alura's class *React: global states manegement
     - npm install (to install all project's dependencies)
     - npm start (to open the project on your browser)
  
-* In case the project does not opend type http://localhost:3000 on your browser
+* In case the project does not opend automatically type http://localhost:3000 on your browser
 
 #
 
