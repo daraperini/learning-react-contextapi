@@ -8,20 +8,20 @@ This project was developed during Alura's class *React: global states manegement
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
-## Initializing project's versions on your computer
+## Initializing the project on your computer
 
 - Clone the repository using the command line:
     - git clone *link of the repository*
     - cd *file of the repository*
  
-- Go to the version's file:
+- Go to the projects main file:
     - cd *name of the file*
  
 - Run the code:
     - npm install (to install all project's dependencies)
     - npm start (to open the project on your browser)
  
-* In case the project does not opend Caso o projeto não abra automatically type http://localhost:3000 on your browser
+* In case the project does not opend type http://localhost:3000 on your browser
 
 #
 
