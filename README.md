@@ -1,4 +1,4 @@
-# E-commerce - ContextAPI
+# E-commerce with ContextAPI
 
 This project was developed during Alura's class *React: global states manegement with ContextAPI*. I developed a simple e-commerce using React focusing on the usage of React Context. I learned how to create and manege globas states through ContextAPI and reinforced other concepts such as Single Responsibility Principle and other good practices in Front-end development. I also developed custom hooks and used Contexts to alter other Contexts.
 
@@ -25,7 +25,7 @@ This project was developed during Alura's class *React: global states manegement
 
 #
 
-# E-commerce - ContextAPI
+# E-commerce com ContextAPI
 
 Nesse projeto desenvolvido a partir do curso *React: gerenciamento de estados globais com ContextAPI*, da Alura, desenvolvi um e-commerce simples utilizando o React, com foco na utilização de React Context. Nele aprendi a criar e gerenciar estados globais através do ContextAPI, além de reforçar conceitos como Single Responsibility Principle e outras boas práticas da programação Front-end. Também desenvolvi hooks costumizados e utilizei Contexts para alterar outros Contexts.
 
